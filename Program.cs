@@ -20,3 +20,8 @@ namespace BasicCaculator
         }
     }
 }
+ static int hello()
+ {
+     
+ }
+ }
